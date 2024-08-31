@@ -4,7 +4,7 @@ Scrapify is a simple desktop application designed to scrap company information f
 For more details please view README file.
 To test the tool please follow below steps - 
   Download "Scrapify-Temp" file( there are 100 URLs for sample avialable)
-  Click on the Scrapify_app Exe file in dist folder
+  Execute Scrapify_app.py file
   Select the sample Scrapify-Temp file
   Once the data is processed it will prompt to download.
   
